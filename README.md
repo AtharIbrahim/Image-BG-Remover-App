@@ -27,7 +27,7 @@ Welcome! I'm excited to share my latest learning experience: an Image Background
 | ![Splash Screen](screenshots/Screenshot%202024-12-04%20161442.png) |
 |:---:|
 
-| ![Splash Screen](screenshots/Screenshot%202024-12-04%20161532.png) |
+| ![Splash Screen](screenshots/Screenshot%202024-12-05%20172505.png) |
 |:---:|
 
 
