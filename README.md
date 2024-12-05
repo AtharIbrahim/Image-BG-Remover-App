@@ -55,8 +55,9 @@ To get started with this project:
 ## 👤 Author
 
 - **Name**: Athar Ibrahim Khalid
-- **GitHub**: [AtharIbrahim](https://github.com/AtharIbrahim/)
+- **GitHub**: [Athar Ibrahim Khalid](https://github.com/AtharIbrahim/)
 - **LinkedIn**: [Athar Ibrahim Khalid](https://www.linkedin.com/in/athar-ibrahim-khalid-0715172a2/)
+- **Website**: [Athar Ibrahim Khalid](https://atharibrahimkhalid.netlify.app/)
 
 
 ## 📝 License
