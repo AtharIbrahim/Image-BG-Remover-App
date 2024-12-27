@@ -46,7 +46,7 @@ To get started with this project:
    ```bash
    add admob id
 
-2. **Get all dependices**:
+3. **Get all dependices**:
    ```bash
    flutter pub get
 4. **Run Project**:
